@@ -1,0 +1,11 @@
+geopandas==0.3.0
+geopandas==0.13.2
+matplotlib==3.7.0
+missingno==0.5.2
+numpy==1.23.5
+pandas==1.5.3
+plotly==5.9.0
+Requests==2.32.3
+scikit_learn==1.2.1
+seaborn==0.13.2
+Shapely==1.6.3
