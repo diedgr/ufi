@@ -20,8 +20,8 @@ To get started with the UFI, clone the repository and install the required depen
 The UFI and associated materials (code, data, web viewer, and documentation) are provided under the following terms:
 
 1. **Attribution**:  
-   Users of the UFI must provide proper attribution by citing the tool in any publications, presentations, or derivative works. Please use the following citation format:  
-   > Diedrich, G. (2024). *Underserved Farmers Index (UFI)*. [https://www.grahamdiedrich.com/data/ufi]
+   Users of the UFI must provide proper attribution by citing the tool in any publications, presentations, or derivative works. Please use the following citation:  
+   > Diedrich, G. (2024). *Underserved Farmers Index (UFI)*. https://www.grahamdiedrich.com/data/ufi
 
 2. **Non-Commercial Use Only**:  
    The UFI is made available for educational, research, and non-commercial purposes only. Commercial use of the UFI, including but not limited to integration into for-profit products or services, is strictly prohibited.
@@ -40,4 +40,4 @@ By downloading or using the UFI, you agree to abide by the terms of this license
 ## Contact  
 For questions or permissions beyond the scope of this license, please contact the author:  
 Graham Diedrich  
-Email: [mailto:diedgr@msu.edu]  
+Email: [diedgr@msu.edu]  
