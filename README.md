@@ -40,4 +40,4 @@ By downloading or using the UFI, you agree to abide by the terms of this license
 ## Contact  
 For questions or permissions beyond the scope of this license, please contact the author:  
 Graham Diedrich  
-Email: [diedgr@msu.edu]  
+Email: diedgr@msu.edu
