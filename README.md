@@ -1,3 +1,5 @@
+![UFI logo](https://static.wixstatic.com/media/e8d0f3_4c2f029650d14abaa8576961ef13e985~mv2.png/v1/fill/w_167,h_167,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/UFI%20logo.png) 
+
 # Underserved Farmers Index (UFI)
 **Version 1.0.0 (updated December 23, 2024)**
 
