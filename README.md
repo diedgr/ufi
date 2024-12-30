@@ -14,3 +14,30 @@ The UFI is an essential tool for policymakers, researchers, and community leader
 ## Installation
 
 To get started with the UFI, clone the repository and install the required dependencies listed in the ``requirements.txt`` file. Create a virtual environment (optional but recommended) and use the command ``pip install -r requirements.txt`` to install the necessary packages, which include ``geopandas``, ``matplotlib``, ``numpy``, ``pandas``, and others. The dataset used in the analysis is ``ufi_v1.0.0.csv``, and the Python script that demonstrates how the index was developed, along with sensitivity analysis and stability tests, is ``ufi_v1.0.0.py``. After setting up the environment and installing dependencies, you can run the script with ``python ufi_v1.0.0.py`` to generate the UFI based on 2022 Census of Agriculture [data](https://quickstats.nass.usda.gov).
+
+## Terms of Use
+
+The UFI and associated materials (code, data, web viewer, and documentation) are provided under the following terms:
+
+1. **Attribution**:  
+   Users of the UFI must provide proper attribution by citing the tool in any publications, presentations, or derivative works. Please use the following citation format:  
+   > Diedrich, G. (2024). *Underserved Farmers Index (UFI)*. [https://www.grahamdiedrich.com/data/ufi]
+
+2. **Non-Commercial Use Only**:  
+   The UFI is made available for educational, research, and non-commercial purposes only. Commercial use of the UFI, including but not limited to integration into for-profit products or services, is strictly prohibited.
+
+3. **Modification and Redistribution**:  
+   Users may modify and redistribute the UFI, provided that:  
+   - Proper attribution is maintained.
+   - The redistributed version includes a clear statement of modifications.
+   - It remains non-commercial.
+
+4. **Prohibited Uses**:  
+   Users may not use the UFI or its derivatives for any purpose that violates these terms or applicable laws.
+
+By downloading or using the UFI, you agree to abide by the terms of this license.
+
+## Contact  
+For questions or permissions beyond the scope of this license, please contact the author:  
+Graham Diedrich  
+Email: [mailto:diedgr@msu.edu]  
