@@ -17,7 +17,7 @@ To get started with the UFI, clone the repository and install the required depen
 
 ## Terms of Use
 
-The UFI and associated materials (code, data, web viewer, and documentation) are provided under the following terms:
+The UFI and associated materials (code, data, [web viewer]([url](https://msugis.maps.arcgis.com/home/item.html?id=7f05b39310144840b05ac8ed9a67ce22#overview)), and documentation) are provided under the following terms:
 
 1. **Attribution**:  
    Users of the UFI must provide proper attribution by citing the tool in any publications, presentations, or derivative works. Please use the following citation:  
